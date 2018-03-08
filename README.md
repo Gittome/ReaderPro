@@ -34,4 +34,6 @@
 
 #### 3. 一些效果图
 <img src="imgs/logo.png">
+<img src="imgs/reader.png">
+<img src="imgs/reader2.png">
 
